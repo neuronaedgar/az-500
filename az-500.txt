@@ -1,0 +1,48 @@
+AZ-500 Microsoft Azure Security Technologies
+08/09/22
+Monica de la fuente (secretaria) monica.delafuente@pue.es
+Jose Antonio Chito (profesor)
+29 alumnos.
+60 horas de curso.
+
+acceso: https://lms.pue.es/my/
+User: e-mail
+passwd: Jxxxxx8€
+
+DEPARTAMENTO FORMACIÓN https://help.consorci.pue.es/
+INCIDENCIAS DEPARTAMENTO TÉCNICO https://help.pue.es
+DEPARTAMENTO CERTIFICACIONES https://exam.pue.es/help/
+
+SEPE y Consorci
+conforcat.gencat.cat -> formacion subencionada.
+75% de asistencia.
+
+Deberá llegar un Azure pass.
+Al 25% del curso accederemos al MOC.
+
+Laboratorios:
+https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/tree/master/Instructions/Labs
+
+Azure Active Directory:
+
+Un tenant -> ubicar recursos y servicios dentro de azure.
+su extension contiene siempre ***.onmicrosoft.com
+
+Azure premium 1 y 2.
+Premium 2 -> acceso condicionales (validar si no estas en tu ubicacion habitual), 
+
+
+Entorno hibrido -> password change back.
+
+Azure Active Directory -> SAML, OpenID Connect, WS-Federation (no se basa en Kerberos)
+No hay GPO's -> pero puedes tratar de integrar en intunes
+Autopilot -> 
+
+Global Administrator -> tienes acceso a todo el tenant.
+Los roles permiten acceder a los recursos. Billing Administrator, Global Reader, Global Administrator, etc..
+IAM -> para recursos.
+ 
+
+
+
+

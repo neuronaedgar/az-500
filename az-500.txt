@@ -42,7 +42,26 @@ Global Administrator -> tienes acceso a todo el tenant.
 Los roles permiten acceder a los recursos. Billing Administrator, Global Reader, Global Administrator, etc..
 IAM -> para recursos.
  
+Passwordless -> mayor seguridad.
+Fido2 security key
+acceso condicionales para validar si el usuario se conecta desde una IP o desde el dispositivo de empresa, sino doble factor authenticacion.
 
+Página cangear el voucher:
+https://www.microsoftazurepass.com/
+
+Ver coste voucher:
+https://www.microsoftazuresponsorships.com/Balance
+
+Puedes crear los dominios que quieras en los tenant. Hay que verificar con la creacion de un registro DNS.
+Ir a Azure Active Directory, Manage Tenants.
+
+Un tenant puede tener diferentes suscripciones.
+Una suscripcion no puede compartir diferentes tenant.
+
+Ejemplo, una suscripcion para produccion y otra para desarrollo con diferentes limites.
+
+¿Se puede mover las suscripciones de un sitio a otro?
+Si.
 
 
 

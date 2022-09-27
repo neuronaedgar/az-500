@@ -17,6 +17,10 @@ SEPE y Consorci
 conforcat.gencat.cat -> formacion subencionada.
 75% de asistencia.
 
+Azure:
+neuronaedgar@outlook.com
+E...$8
+
 Deberá llegar un Azure pass.
 Al 25% del curso accederemos al MOC.
 
@@ -62,6 +66,40 @@ Ejemplo, una suscripcion para produccion y otra para desarrollo con diferentes l
 
 ¿Se puede mover las suscripciones de un sitio a otro?
 Si.
+____________________________________________________________________________________________________________
+15/09/22
 
+PIM -> Privileged Identity Management.
+Zero Trust Model -> 
+
+office 365 y incorporar 
+Paquete E5 -> Seguridad avanzada de 365
+
+go deploy -> laboratorio guiados.
+
+Licencias Premium 2
+
+El PIM permite dar permisos a un usuario mediante roles en un determinado tiempo auditando los accesos, etc...
+
+herramienta externa para extraer billing.
+
+Directivas Azure -> reglas y politicas asignadas a los recursos.
+
+Herramienta scan del codigo desplegado mediante Terraform.
+https://docs.driftctl.com/0.35.0/
+
+Esta mas trabajado el AD connect local que el servicio cloud 
+https://learn.microsoft.com/en-us/azure/active-directory/cloud-sync/what-is-cloud-sync
+
+producto para hacer auditoria teleport "Bastion" 
+https://goteleport.com/
+
+https://github.com/gravitational/teleport
+
+Azure traffic manager -> gestion trafico Dns.
+
+Overview of VLAN, VXLAN and QinQ
+
+https://learn.microsoft.com/es-es/training/paths/implement-platform-protection/
 
 

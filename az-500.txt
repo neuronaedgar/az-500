@@ -9,6 +9,11 @@ acceso: https://lms.pue.es/my/
 User: e-mail
 passwd: Jxxxxx8€
 
+Libro
+https://skillpipe.com/#/account/login
+User: edgxx.yyyyyy.zzzres@gmail.com
+Passwd: el de neuronaedgar@outlook.com
+
 DEPARTAMENTO FORMACIÓN https://help.consorci.pue.es/
 INCIDENCIAS DEPARTAMENTO TÉCNICO https://help.pue.es
 DEPARTAMENTO CERTIFICACIONES https://exam.pue.es/help/
@@ -101,5 +106,19 @@ Azure traffic manager -> gestion trafico Dns.
 Overview of VLAN, VXLAN and QinQ
 
 https://learn.microsoft.com/es-es/training/paths/implement-platform-protection/
+
+Ejercicios:
+https://learn.microsoft.com/es-es/training/modules/host-security/12-demonstration
+
+josemanuel.perez@gi-de.com ->
+
+
+https://www.examcollection.com/
+https://www.whizlabs.com/
+https://www.testpreptraining.com/
+https://www.examtopics.com/exams/microsoft/az-500
+https://www.prepaway.com/
+
+
 
 
